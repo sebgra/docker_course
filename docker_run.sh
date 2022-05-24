@@ -1,0 +1,1 @@
+sudo docker run -v $PWD:$PWD -w $PWD  course:0.1.0 -i local_input_file -o local_ouput_file
